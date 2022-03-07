@@ -1,4 +1,4 @@
-Creating a new webpage for a food catering business.
+<!-- Creating a new webpage for a food catering business.
 
 Tech stack inlcudes:
 
@@ -7,4 +7,4 @@ Javascript
 HTML
 CSS
 React
-Redux
+Redux -->
